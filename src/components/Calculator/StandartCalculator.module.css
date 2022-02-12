@@ -1,0 +1,18 @@
+.column-size{
+    height: 20rem;
+    width: 5rem;
+    border: none !important;
+}
+
+
+.input-area{
+    background: #E67E22 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 0 !important;
+    text-align: right;
+}
+
+.dot-symbol{
+    font-size: xx-large;
+}
